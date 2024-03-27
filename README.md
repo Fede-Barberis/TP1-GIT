@@ -1,2 +1,2 @@
 # TP1-GIT
-* [Bruno Rossi](TP1-GIT/CV-BrunoRossi) 
+* [Bruno Rossi](https://github.com/Fede-Barberis/TP1-GIT/blob/rama-bruno/CV-BrunoRossi.md) 
